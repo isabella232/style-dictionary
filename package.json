@@ -126,7 +126,7 @@
     "json5-jest": "^1.0.1",
     "less": "^3.0.1",
     "lint-staged": "^8.1.0",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "standard-version": "^4.4.0"
   }
 }
